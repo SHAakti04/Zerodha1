@@ -1,9 +1,0 @@
-[submodule "Backend"]
-	path = Backend
-	url = https://github.com/SHAakti04/Zerodha1.git
-[submodule "dashboard"]
-	path = dashboard
-	url = https://github.com/SHAakti04/Zerodha1.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/SHAakti04/Zerodha1.git
